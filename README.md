@@ -1,10 +1,12 @@
 # Esplicity-Chrome-Stealer
+**Tested on latest chrome versions `142.0.7444.59`+**
+
 
 # Core Features
 - **Auto-Execution**: Runs on system startup for persistent operation.
 - **Browser Extension Theft**: Extracts data from MetaMask, Binance Wallet, and Phantom (Chrome extensions).
 - **Desktop Wallet Extraction**: Retrieves credentials from Exodus, Electrum, and Atomic wallets.
-- **Browser Data Capture**: Steals passwords and cookies from Chrome (V20+). Tested on latest chrome versions `141.0.7390.108`.
+- **Browser Data Capture**: Extracts passwords, autofills and cookies from Chrome (V20+).
 - **Activity Logging**: Captures full browser history.
 - **Multi-Profile Support**: Targets all Chrome user profiles.
 - **System Capture**: Takes screenshots and retrieves IP address.
